@@ -1,4 +1,4 @@
-ppublic void setup()
+public void setup()
 {
   size(1920,1080);
   background(250,250,250);
